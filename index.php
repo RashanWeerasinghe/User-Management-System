@@ -53,10 +53,6 @@ $errors[]='database query faild';
 
        }      
   
-
-  
-
-  // if not,display the error
 }
   
 }
